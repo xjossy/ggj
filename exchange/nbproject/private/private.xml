@@ -3,10 +3,16 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/gosha/android/feeasy_android/exchange/public_html/js/editor.js</file>
-            <file>file:/C:/gosha/android/feeasy_android/exchange/public_html/js/semantic.js</file>
-            <file>file:/C:/gosha/android/feeasy_android/exchange/public_html/env.css</file>
-            <file>file:/C:/gosha/android/feeasy_android/exchange/public_html/index.html</file>
+            <file>file:/C:/gosha/dev/ggj/exchange/public_html/js/network.js</file>
+            <file>file:/C:/gosha/dev/ggj/exchange/public_html/js/field.js</file>
+            <file>file:/C:/gosha/dev/ggj/exchange/public_html/js/uitank.js</file>
+            <file>file:/C:/gosha/dev/ggj/exchange/public_html/js/bullet.js</file>
+            <file>file:/C:/gosha/dev/ggj/exchange/public_html/js/semantic.js</file>
+            <file>file:/C:/gosha/dev/ggj/exchange/public_html/js/uilistener.js</file>
+            <file>file:/C:/gosha/dev/ggj/exchange/public_html/js/utility.js</file>
+            <file>file:/C:/gosha/dev/ggj/exchange/public_html/js/engine.js</file>
+            <file>file:/C:/gosha/dev/ggj/exchange/public_html/js/exchange.js</file>
+            <file>file:/C:/gosha/dev/ggj/exchange/public_html/js/movable.js</file>
         </group>
     </open-files>
 </project-private>
